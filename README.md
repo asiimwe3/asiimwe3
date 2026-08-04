@@ -1,27 +1,59 @@
-# 👋 Hi, I'm Asiimwe Derick
+<h1 align="center">👋 Hi, I'm Asiimwe Derick</h1>
+<h3 align="center">Software Engineer · Blockchain Developer · AI Specialist · Founder of DeryCode</h3>
+<p align="center">Also known as <b>Derick Asiimwe</b> and <b>TraderDerick</b> online</p>
 
-**Founder & Lead Developer at [DeryCode](https://derycode.publicvm.com)**
+---
 
-> 📍 Kyenjojo, Uganda
-> 📧 info@derycode.com
-> 📱 WhatsApp: +256 772 002 326 / +256 762 306 675
+<p align="center">
+  📍 Kyenjojo, Uganda 🇺🇬 · 
+  💬 WhatsApp: +256 772 002 326 · 
+  📧 info@derycode.com
+</p>
 
-## 🚀 What I Do
+---
 
-I build world-class software from the heart of Uganda. My company [DeryCode](https://derycode.publicvm.com) delivers:
+## 🚀 About Me
 
-- 🌐 [Business Website Development](https://derycode.publicvm.com/business-websites.html) — From UGX 750,000
-- 💻 [Web Applications & SaaS](https://derycode.publicvm.com/web-applications.html) — From UGX 2,200,000
-- 📱 [Mobile App Development](https://derycode.publicvm.com/mobile-apps.html) — From UGX 4,400,000
-- 🏦 [Banking & SACCO Software](https://derycode.publicvm.com/banking-sacco-software.html) — From UGX 3,800,000
-- ⛓️ [Smart Contracts & Blockchain](https://derycode.publicvm.com/smart-contracts.html) — From UGX 5,500,000
-- 📊 [Business Management & ERP](https://derycode.publicvm.com/business-management-erp.html) — From UGX 3,500,000
-- 📚 [School Digital Libraries & LMS](https://derycode.publicvm.com/school-digital-libraries.html) — From UGX 3,000,000
-- 🤖 [AI & Automation Solutions](https://derycode.publicvm.com/ai-automation.html) — From UGX 2,500,000
-- 📣 [Digital Marketing & SEO](https://derycode.publicvm.com/digital-marketing.html) — From UGX 1,500,000
-- 🎨 [UI/UX Design & Branding](https://derycode.publicvm.com/uiux-design-branding.html) — From UGX 1,200,000
-- 🪙 [Token & Crypto Development](https://derycode.publicvm.com/token-crypto-development.html) — From UGX 6,000,000
-- 🔌 [API & Payment Integrations](https://derycode.publicvm.com/api-payment-integrations.html) — From UGX 1,800,000
+I'm **Asiimwe Derick** (also known as **Derick Asiimwe** or **TraderDerick**) — a full-stack software engineer, blockchain developer, and AI specialist based in Kyenjojo, Uganda. I'm the founder and lead engineer at **[DeryCode](https://derycode.publicvm.com)**, Uganda's #1 technology and blockchain company.
+
+I started DeryCode to prove that world-class software, blockchain, and AI solutions can be built right here in Uganda — for clients across Africa and beyond. With 5+ years of experience and 100+ projects delivered, I lead every project personally from architecture to deployment.
+
+**Core expertise:** React, Next.js, Node.js, TypeScript, React Native, Flutter, Solidity, Python, PostgreSQL, Firebase, Supabase, AI/ML, Web3, DeFi, Mobile Money Integration, ERP Systems, SACCO Software.
+
+---
+
+## 🏢 DeryCode — Uganda's #1 Tech & Blockchain Company
+
+**[DeryCode](https://derycode.publicvm.com)** is a full-service technology company delivering world-class solutions from the heart of Uganda:
+
+| Service | Starting Price | Link |
+|---------|---------------|------|
+| 🌐 Business Website Development | From UGX 750,000 | [Details](https://derycode.publicvm.com/business-websites.html) |
+| 💻 Web Applications & SaaS | From UGX 2,200,000 | [Details](https://derycode.publicvm.com/web-applications.html) |
+| 📱 Mobile App Development (iOS & Android) | From UGX 4,400,000 | [Details](https://derycode.publicvm.com/mobile-apps.html) |
+| 🏦 Banking & SACCO Software | From UGX 3,800,000 | [Details](https://derycode.publicvm.com/banking-sacco-software.html) |
+| ⛓️ Smart Contracts & Blockchain | From UGX 5,500,000 | [Details](https://derycode.publicvm.com/smart-contracts.html) |
+| 📊 Business Management & ERP | From UGX 3,500,000 | [Details](https://derycode.publicvm.com/business-management-erp.html) |
+| 📚 School Digital Libraries & LMS | From UGX 3,000,000 | [Details](https://derycode.publicvm.com/school-digital-libraries.html) |
+| 🤖 AI & Automation Solutions | From UGX 2,500,000 | [Details](https://derycode.publicvm.com/ai-automation.html) |
+| 📣 Digital Marketing & SEO | From UGX 1,500,000/mo | [Details](https://derycode.publicvm.com/digital-marketing.html) |
+| 🎨 UI/UX Design & Branding | From UGX 1,200,000 | [Details](https://derycode.publicvm.com/uiux-design-branding.html) |
+| 🪙 Token & Crypto Development | From UGX 6,000,000 | [Details](https://derycode.publicvm.com/token-crypto-development.html) |
+| 🔌 API & Payment Integrations | From UGX 1,800,000 | [Details](https://derycode.publicvm.com/api-payment-integrations.html) |
+
+---
+
+## 🏗️ Notable Projects
+
+- **[SAGECO Evergreen](https://derycode.publicvm.com)** — Premier real estate platform with property listings, agent dashboard, and MoMo payment integration
+- **[Tooro Music](https://derycode.publicvm.com)** — Ugandan music streaming platform with artist hub, PesaPal subscriptions, and AI music recognition
+- **[Tropical Gardens Hotel](https://tropicalgardenshotelkyenjojo.com)** — Hotel website with WhatsApp booking, photo gallery, and Google Maps integration
+- **[DeryCoin (DRC)](https://derycode.publicvm.com)** — ERC-20 community token with staking, governance features, and a full token dashboard
+- **[School Sync Manager](https://derycode.publicvm.com)** — Offline-first school management system with digital library, staff payroll, and parent portal
+- **[WorldTech Youth Foundation](https://worldtech-youth-foundation.onrender.com)** — Digital-education platform for a Kyenjojo-based youth foundation
+- **[Peters Medicare](https://petersmedicare.online)** — Healthcare management system for Kyenjojo, Uganda
+
+---
 
 ## 📝 Latest Articles
 
@@ -33,14 +65,27 @@ I build world-class software from the heart of Uganda. My company [DeryCode](htt
 - [ERP Software in Uganda](https://derycode.publicvm.com/blog-post.html?id=erp-software-uganda)
 - [Blockchain Development in Uganda](https://derycode.publicvm.com/blog-post.html?id=blockchain-uganda)
 - [AI Chatbots in Uganda](https://derycode.publicvm.com/blog-post.html?id=ai-chatbot-uganda)
-- [Digital Marketing in Uganda](https://derycode.publicvm.com/blog-post.html?id=digital-marketing-uganda)
 
-## 🔗 Connect
+---
+
+## 🔗 Connect With Me
 
 - 🌐 **Website:** [derycode.publicvm.com](https://derycode.publicvm.com)
 - 💼 **LinkedIn:** [Asiimwe Derick](https://ug.linkedin.com/in/asiimwe-derick-501755313)
 - 📱 **Facebook:** [DeryCode Group](https://www.facebook.com/groups/1025678076805011)
+- 💬 **WhatsApp:** +256 772 002 326 / +256 762 306 675
+- 📧 **Email:** info@derycode.com
+
+---
+
+## 🔑 Search Terms
+
+You can find me online as: **Asiimwe Derick**, **Derick Asiimwe**, **TraderDerick**, **DeryCode founder**, **Asiimwe Derick Uganda**, **Derick Asiimwe software engineer**, **traderderick blockchain**, **Asiimwe Derick DeryCode**.
 
 ---
 
 ⭐ **Looking for a software partner in Uganda?** Visit [DeryCode](https://derycode.publicvm.com) — Software, Blockchain, AI and Web3 solutions built in Uganda.
+
+---
+
+<sub>Asiimwe Derick · Derick Asiimwe · TraderDerick · DeryCode Technologies · Kyenjojo, Uganda 🇺🇬</sub>
