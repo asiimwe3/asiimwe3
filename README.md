@@ -89,3 +89,28 @@ You can find me online as: **Asiimwe Derick**, **Derick Asiimwe**, **TraderDeric
 ---
 
 <sub>Asiimwe Derick · Derick Asiimwe · TraderDerick · DeryCode Technologies · Kyenjojo, Uganda 🇺🇬</sub>
+
+## 🔍 DeryCode Search — AI Search Engine Built in C
+
+![DeryCode Search](https://img.shields.io/badge/Built_in-C-blue) ![Vercel](https://img.shields.io/badge/Deployed_on-Vercel-black) ![Zero Dependencies](https://img.shields.io/badge/Dependencies-Zero-green)
+
+A premium AI-powered search engine built in pure C with zero frameworks and zero dependencies.
+
+**Features:**
+- 🔍 Web Search (aggregates DuckDuckGo, Bing, Wikipedia, GitHub)
+- 🤖 AI Summaries (auto-generated from top results)
+- 📚 Knowledge Panels (Wikipedia summaries with thumbnails)
+- 🖼️ Image Search (Bing + DuckDuckGo)
+- 📰 News Search
+- ⚡ Code Search (GitHub repositories)
+- 📺 Video Search
+- 🎙️ Voice Search (Web Speech API)
+- 💡 Autocomplete suggestions
+- 🌍 6 languages (English, Kiswahili, Luganda, Runyoro, French, Arabic)
+- 📱 PWA with offline support
+- 🔒 Privacy-focused: no tracking, no ads
+
+**Live:** https://derycode-search-c.vercel.app
+**Repo:** https://github.com/asiimwe3/derycode-search-c
+
+Built in C by [DeryCode Technologies](https://derycode.publicvm.com) — Kyenjojo, Uganda 🇺🇬
