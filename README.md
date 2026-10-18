@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=0A84FF&center=true&vCenter=true&random=false&width=435&lines=Asiimwe+Derick;Software+Engineer;Blockchain+Developer;AI+Specialist;Founder+%26+CEO+@+DeryCode;Kampala%2C+Uganda+%F0%9F%87%BA%F0%9F%87%AC" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=0A84FF&center=true&vCenter=true&random=false&width=435&lines=Asiimwe+Derick;Software+Engineer;Blockchain+Developer;AI+Specialist;Founder+%26+CEO+@+DeryCode;Fort+Portal%2C+Uganda+%F0%9F%87%BA%F0%9F%87%AC" alt="Typing SVG" />
 
 </div>
 
@@ -11,7 +11,7 @@
 [![GitHub](https://img.shields.io/badge/GitHub-asiimwe3-181717?style=for-the-badge&logo=github)](https://github.com/asiimwe3)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Asiimwe%20Derick-0A66C2?style=for-the-badge&logo=linkedin)](https://ug.linkedin.com/in/asiimwe-derick-501755313)
 [![Google Maps](https://img.shields.io/badge/Google_Maps-Local_Guide_L5-34A853?style=for-the-badge&logo=googlemaps)](https://www.google.com/maps/contrib/112906688624735710517)
-[![Website](https://img.shields.io/badge/Website-derycode.publicvm.com-0A84FF?style=for-the-badge&logo=googlechrome)](https://derycode.publicvm.com)
+[![Website](https://img.shields.io/badge/Website-derycode.online-0A84FF?style=for-the-badge&logo=googlechrome)](https://derycode.online)
 [![Foundation](https://img.shields.io/badge/Foundation-Western%20Youth%20Tech-9B59B6?style=for-the-badge&logo=heart)](https://western-youth-tech-foundation.vercel.app)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-%2B256%20772%20002%20326-25D366?style=for-the-badge&logo=whatsapp)](https://wa.me/256772002326)
 [![Email](https://img.shields.io/badge/Email-info@derycode.com-D14836?style=for-the-badge&logo=gmail)](mailto:info@derycode.com)
@@ -22,7 +22,7 @@
 
 ### 👨‍💻 About Me
 
-I'm **Asiimwe Derick** (also known as **Derick Asiimwe** or **TraderDerick**) — a full-stack software engineer, blockchain developer, and AI specialist based in Kampala, Uganda 🇺🇬. I'm the **Founder & CEO** of [**DeryCode Technologies**](https://derycode.publicvm.com) and **CEO of Sageco Evergreen Company Limited**.
+I'm **Asiimwe Derick** (also known as **Derick Asiimwe** or **TraderDerick**) — a full-stack software engineer, blockchain developer, and AI specialist based in Fort Portal, Uganda 🇺🇬. I'm the **Founder & CEO** of [**DeryCode Technologies**](https://derycode.online) and **CEO of Sageco Evergreen Company Limited**.
 
 I started DeryCode to prove that **world-class software, blockchain, and AI solutions can be built right here in Uganda** — for clients across Africa and beyond. With 5+ years of experience and 100+ projects delivered, I lead every project personally from architecture to deployment.
 
@@ -104,7 +104,7 @@ I know **all major programming languages** and pick the right tool for the job. 
 
 ### 🏢 DeryCode — Uganda's #1 Tech & Blockchain Company
 
-[**DeryCode Technologies**](https://derycode.publicvm.com) delivers world-class solutions from Uganda to the world:
+[**DeryCode Technologies**](https://derycode.online) delivers world-class solutions from Uganda to the world:
 
 1. 🌐 Business Website Development — from UGX 750,000
 2. 💻 Web Applications & SaaS — from UGX 2,200,000
@@ -125,14 +125,18 @@ Contact: info@derycode.com | WhatsApp: +256 772 002 326 / +256 762 306 675
 
 ### 🏗️ Notable Projects
 
-1. [**SAGECO Evergreen**](https://derycode.publicvm.com) — Real estate platform with property listings, agent dashboard, MoMo payments
-2. [**Tooro Music**](https://derycode.publicvm.com) — Ugandan music streaming with artist hub, PesaPal subscriptions, AI music recognition
-3. [**DeryCode Search**](https://derycode-search-c.vercel.app) — AI search engine with 43 languages, 10 modes, 22 sources, conversational AI
-4. [**Tropical Gardens Hotel**](https://tropicalgardenshotelkyenjojo.com) — Hotel website with WhatsApp booking, photo gallery, Google Maps
-5. [**DeryCoin (DRC)**](https://derycode.publicvm.com) — ERC-20 community token with staking, governance, and token dashboard
-6. [**School Sync Manager**](https://derycode.publicvm.com) — Offline-first school management with digital library, payroll, parent portal
-7. [**WorldTech Youth Foundation**](https://worldtech-youth-foundation.onrender.com) — Digital education platform for Ugandan youth
-8. [**Peters Medicare**](https://petersmedicare.online) — Healthcare management system for Kyenjojo, Uganda
+1. [**DeryAccount**](https://github.com/asiimwe3/deryaccount) — Offline-first Android POS & double-entry accounting app for Ugandan SMEs (Kotlin, Room, ESC/POS printing)
+2. [**DeryCode Finance**](https://asiimwe3.github.io/derycode-finance/) — Offline POS, invoicing & accounting PWA with cloud sync
+3. [**School Report Maker**](https://asiimwe3.github.io/derycode-website/projects/school-report-maker.html) — Report cards for schools, made simple
+4. [**SomaWest**](https://asiimwe3.github.io/somawest/) — Western Uganda school-finder platform with 3,300+ school pages & SEO
+5. [**Dena**](https://derycode.online) — Microfinance & loan management platform (in development)
+6. [**SAGECO Evergreen**](https://sagecoevergreen.publicvm.com) — Real estate platform with property listings, agent dashboard, MoMo payments
+7. [**Tooro Music**](https://tooro-music.vercel.app) — Ugandan music streaming with artist hub, PesaPal subscriptions, AI music recognition
+8. [**DeryCode Search**](https://derycode-search-c.vercel.app) — AI search engine with 43 languages, 10 modes, 22 sources, conversational AI
+9. [**Tropical Gardens Hotel**](https://tropicalgardenshotelkyenjojo.com) — Hotel booking PWA with WhatsApp booking, Supabase rooms & Google reviews
+10. [**Peters Medicare Services**](https://asiimwe3.github.io/peters-medicare-services/) — Healthcare platform with booking, donations & blog
+11. [**Bagu General Enterprises**](https://asiimwe3.github.io/bagu-general-enterprises/) — Enterprise site for hardware, transport, construction & well drilling
+12. [**Kyenjojo Secondary School**](https://asiimwe3.github.io/kyenjojo-secondary-school/) — School website with custom crest, PWA & SEO schema
 
 ---
 
@@ -160,20 +164,20 @@ A premium AI-powered search engine built from scratch with zero frameworks.
 
 ### 📝 Latest Articles
 
-1. [How Much Does a Website Cost in Uganda?](https://derycode.publicvm.com/blog-post.html?id=website-cost-uganda)
-2. [Top Software Companies in Uganda](https://derycode.publicvm.com/blog-post.html?id=best-software-company-uganda)
-3. [SEO in Uganda — Complete Guide](https://derycode.publicvm.com/blog-post.html?id=seo-uganda-guide)
-4. [Mobile Money API Integration Guide](https://derycode.publicvm.com/blog-post.html?id=mobile-money-integration-guide)
-5. [School Management Systems in Uganda](https://derycode.publicvm.com/blog-post.html?id=school-management-system-uganda)
-6. [Blockchain Development in Uganda](https://derycode.publicvm.com/blog-post.html?id=blockchain-uganda)
-7. [AI Chatbots in Uganda](https://derycode.publicvm.com/blog-post.html?id=ai-chatbot-uganda)
-8. [ERP Software in Uganda](https://derycode.publicvm.com/blog-post.html?id=erp-software-uganda)
+1. [How Much Does a Website Cost in Uganda?](https://derycode.online/blog-post.html?id=website-cost-uganda)
+2. [Top Software Companies in Uganda](https://derycode.online/blog-post.html?id=best-software-company-uganda)
+3. [SEO in Uganda — Complete Guide](https://derycode.online/blog-post.html?id=seo-uganda-guide)
+4. [Mobile Money API Integration Guide](https://derycode.online/blog-post.html?id=mobile-money-integration-guide)
+5. [School Management Systems in Uganda](https://derycode.online/blog-post.html?id=school-management-system-uganda)
+6. [Blockchain Development in Uganda](https://derycode.online/blog-post.html?id=blockchain-uganda)
+7. [AI Chatbots in Uganda](https://derycode.online/blog-post.html?id=ai-chatbot-uganda)
+8. [ERP Software in Uganda](https://derycode.online/blog-post.html?id=erp-software-uganda)
 
 ---
 
 ### 🔗 Connect With Me
 
-🌐 **Website:** [derycode.publicvm.com](https://derycode.publicvm.com)
+🌐 **Website:** [derycode.online](https://derycode.online)
 💼 **LinkedIn:** [Asiimwe Derick](https://ug.linkedin.com/in/asiimwe-derick-501755313)
 📱 **Facebook:** [DeryCode Group](https://www.facebook.com/groups/1025678076805011)
 💬 **WhatsApp:** +256 772 002 326 / +256 762 306 675
@@ -193,7 +197,7 @@ Asiimwe Derick, Derick Asiimwe, TraderDerick, DeryCode founder, DeryCode Technol
 
 <div align="center">
 
-⭐ **Looking for a software partner in Uganda?** Visit [DeryCode](https://derycode.publicvm.com) — Software, Blockchain, AI and Web3 solutions built in Uganda 🇺🇬
+⭐ **Looking for a software partner in Uganda?** Visit [DeryCode](https://derycode.online) — Software, Blockchain, AI and Web3 solutions built in Uganda 🇺🇬
 
 </div>
 
