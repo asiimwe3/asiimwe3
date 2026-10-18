@@ -22,7 +22,7 @@
 
 ### 👨‍💻 About Me
 
-I'm **Asiimwe Derick** (also known as **Derick Asiimwe** or **TraderDerick**) — a full-stack software engineer, blockchain developer, and AI specialist based in Fort Portal, Uganda 🇺🇬. I'm the **Founder & CEO** of [**DeryCode Technologies**](https://derycode.online) and **CEO of Sageco Evergreen Company Limited**.
+I'm **Asiimwe Derick** (also known as **Derick Asiimwe** or **TraderDerick**) — a full-stack software engineer, blockchain developer, and AI specialist based in Fort Portal, Uganda 🇺🇬. I build websites, web apps, mobile apps, POS systems and blockchain software for businesses in Uganda and worldwide as the **Founder & CEO** of [**DeryCode Technologies**](https://derycode.online) and **CEO of Sageco Evergreen Company Limited**.
 
 I started DeryCode to prove that **world-class software, blockchain, and AI solutions can be built right here in Uganda** — for clients across Africa and beyond. With 5+ years of experience and 100+ projects delivered, I lead every project personally from architecture to deployment.
 
